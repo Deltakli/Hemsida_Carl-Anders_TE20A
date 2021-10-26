@@ -1,9 +1,30 @@
-/* Rectangle 1 */
+body {
+    margin: 0;
+    background-color: black;
+}
 
-p {
-position: absolute;
-width: 1440px;
-height: 189px;
-left: 0px;
-top: 0px;
+
+h1 {
+    font-size: 110px;
+    
+}
+
+header  {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    background-color: white;
+    height: 190px;
+    border-bottom: 15px solid #00ff00;
+}
+
+header img {
+    width: 50%;
+    height: 190px;
+    border-bottom: 15px solid #00ff00;
+}
+
+.logo-head {
+    display: flex;
+    align-items: center;
 }
