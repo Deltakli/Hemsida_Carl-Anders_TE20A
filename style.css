@@ -9,6 +9,15 @@ h1 {
     
 }
 
+
+h2 {
+color:  whitesmoke;
+}
+p {
+color: whitesmoke;
+}
+
+
 header  {
     display: flex;
     justify-content: space-between;
@@ -38,4 +47,8 @@ aside {
     color: black;
     width: 40%;
     height: 600px;
+}
+
+a {
+    color: turquoise;
 }
