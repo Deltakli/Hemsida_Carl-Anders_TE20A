@@ -9,6 +9,13 @@ h1 {
     
 }
 
+h2 {
+    color:  turquoise;
+    }
+    p {
+    color: turquoise;
+    }
+    
 header  {
     display: flex;
     justify-content: space-between;
@@ -27,4 +34,19 @@ header img {
 .logo-head {
     display: flex;
     align-items: center;
+}
+
+main {
+    display: flex;
+}
+
+aside {
+    background-color: black;
+    color: black;
+    width: 30%;
+    height: 400px;
+}
+
+a {
+    color: turquoise;
 }
